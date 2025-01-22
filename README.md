@@ -19,7 +19,7 @@ Innovative projects in full-stack development, system integrations, or data-driv
 📫 Reach Me At:
 Email: bambootran68@gmail.com, bentran@lynx-tronics.com
 
-GitHub: github.com/windwalker46
+GitHub: https://github.com/windwalker46
 <!--
 **windwalker46/windwalker46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
