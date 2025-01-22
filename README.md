@@ -1,5 +1,24 @@
-## Hi there 👋
+👋 Hi, I’m Ben Tran
 
+👨‍💻 About Me:
+I'm a Computer Science graduate passionate about software development and solving challenging technical problems.
+Experienced in Python, Java, C++, SQL, and full-stack development.
+Hands-on with system integration, data processing, and creating efficient, scalable solutions.
+
+🌱 What I’m Working On:
+Exploring advanced automation workflows and integrating CAD/CAM with custom software.
+Developing full-stack applications using modern frameworks.
+
+💡 Tech Interests:
+Software development for automation and system design.
+Data analytics, machine learning, and scalable software architectures.
+
+💬 Let’s Collaborate On:
+Innovative projects in full-stack development, system integrations, or data-driven applications.
+
+📫 Reach Me At:
+Email: bambootran68@gmail.com, bentran@lynx-tronics.com
+GitHub: github.com/windwalker46
 <!--
 **windwalker46/windwalker46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
