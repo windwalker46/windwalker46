@@ -17,7 +17,7 @@ Innovative projects in full-stack development, system integrations, or data-driv
 
 📫 Reach Me At:
 
-Email: bambootran68@gmail.com, bentran@lynx-tronics.com
+Email: bentran@lynx-tronics.com
 
 GitHub: https://github.com/windwalker46
 <!--
