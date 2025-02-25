@@ -6,7 +6,6 @@ Experienced in Python, Java, C++, SQL, and full-stack development.
 Hands-on with system integration, data processing, and creating efficient, scalable solutions.
 
 🌱 What I’m Working On:
-Exploring advanced automation workflows and integrating CAD/CAM with custom software.
 Developing full-stack applications using modern frameworks.
 
 💡 Tech Interests:
