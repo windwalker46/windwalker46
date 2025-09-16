@@ -12,8 +12,8 @@ Developing full-stack applications using modern frameworks.
 Software development for automation and system design.
 Data analytics, machine learning, and scalable software architectures.
 
-💬 Let’s Collaborate On:
-Innovative projects in full-stack development, system integrations, or data-driven applications.
+💬 Let’s Collaborate:
+Always open to connecting with other developers and creators.
 
 📫 Reach Me At:
 
