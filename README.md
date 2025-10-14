@@ -1,9 +1,8 @@
 👋 Hi, I’m Ben Tran
 
 👨‍💻 About Me:
-I'm a Computer Science graduate passionate about software development and solving challenging technical problems.
-Experienced in Python, Java, C++, SQL, and full-stack development.
-Hands-on with system integration, data processing, and creating efficient, scalable solutions.
+I'm a Computer Science graduate passionate about software development and building full-stack applications.
+Experienced in Python, Java, Javascript, SQL and full-stack development.
 
 🌱 What I’m Working On:
 Developing full-stack applications using modern frameworks.
