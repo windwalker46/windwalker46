@@ -8,7 +8,7 @@ I build and ship web applications with **Next.js**, **TypeScript**, **React**, *
 
 | Project | What it does | Stack | Links |
 |---------|-------------|-------|-------|
-| **IntakeFlow** | SaaS intake platform with Twilio SMS workflows, real-time status tracking, and role-based access control | Next.js, TypeScript, Supabase, Twilio | [Live](https://intake-sms.vercel.app/) · [Repo](https://github.com/windwalker46/intakeflow) |
+| **IntakeFlow** | SaaS intake platform with Twilio SMS workflows, real-time status tracking, and role-based access control | Next.js, TypeScript, Supabase, Twilio | [Live](https://intake-sms.vercel.app/) · [Repo](https://github.com/windwalker46/intake-sms) |
 | **ChipIn** | Threshold-based group coordination app with real-time state sync | Next.js, TypeScript, Supabase | [Live](https://chipin-opal.vercel.app/) · [Repo](https://github.com/windwalker46/chipin) |
 | **Workout Tracker** | Full-stack CRUD app with REST endpoints and SQLite persistence | Python, Flask | [Live](https://workout-tracker.onrender.com) · [Repo](https://github.com/windwalker46/workout-tracker) |
 
