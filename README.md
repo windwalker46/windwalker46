@@ -14,8 +14,8 @@ I build and ship web applications with **Next.js**, **TypeScript**, **React**, *
 
 ## Get in Touch
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://yourportfolio.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bentran4606/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=vercel&logoColor=white)](https://my-portfolio-v2-one-theta.vercel.app/)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:bentran@lynx-tronics.com)
 <!--
 **windwalker46/windwalker46** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
